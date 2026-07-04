@@ -23,7 +23,7 @@ Passionate about Linux, automation, and DevOps.
 * **[searxng-docker-compose](https://github.com/SMHO179/searxng-docker-compose)** - Production-ready Docker Compose setup for self-hosting the privacy-respecting SearXNG metasearch engine.
 * **[GoWeather](https://github.com/SMHO179/GoWeather)** - Lightweight and highly efficient weather tracking CLI utility written in Go.
 * **[iris-on-knn](https://github.com/SMHO179/iris-on-knn)** - Foundational machine learning project implementing the k-Nearest Neighbors algorithm on the Iris dataset.
-* **[metadata-viewer](https://github.com/SMHO179/metadata-viewer)** - A local file inspector utility designed to view, analyze, and read hidden file metadata. *(لینک را هم اگر تغییر دادید فراموش نکنید)*
+* **[metadata-viewer](https://github.com/SMHO179/metadata-viewer)** - A local file inspector utility designed to view, analyze, and read hidden file metadata.
 * **[Py-calculator](https://github.com/SMHO179/Py-calculator)** - A clean, standalone desktop graphical calculator application built using Python and PyQt6.
 
 ---
