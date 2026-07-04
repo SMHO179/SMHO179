@@ -1,12 +1,11 @@
-```
 Hi, I'm Mohammad Hesam 👋
-```
+
 Backend Developer focused on Go & Python.
 Passionate about Linux, automation, and DevOps.
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -18,18 +17,18 @@ Passionate about Linux, automation, and DevOps.
 
 ---
 
-## Featured Projects
+## 📂 Featured Projects
 
 * **[camera-lock-github](https://github.com/SMHO179/camera-lock-github)** - OpenCV presence-detection utility that automatically locks the system screen when no face is detected.
 * **[searxng-docker-compose](https://github.com/SMHO179/searxng-docker-compose)** - Production-ready Docker Compose setup for self-hosting the privacy-respecting SearXNG metasearch engine.
 * **[GoWeather](https://github.com/SMHO179/GoWeather)** - Lightweight and highly efficient weather tracking CLI utility written in Go.
 * **[iris-on-knn](https://github.com/SMHO179/iris-on-knn)** - Foundational machine learning project implementing the k-Nearest Neighbors algorithm on the Iris dataset.
-* **[metadata-viwer](https://github.com/SMHO179/metadata-viwer)** - A local file inspector utility designed to view, analyze, and read hidden file metadata.
+* **[metadata-viewer](https://github.com/SMHO179/metadata-viewer)** - A local file inspector utility designed to view, analyze, and read hidden file metadata. *(لینک را هم اگر تغییر دادید فراموش نکنید)*
 * **[Py-calculator](https://github.com/SMHO179/Py-calculator)** - A clean, standalone desktop graphical calculator application built using Python and PyQt6.
 
 ---
 
-## Currently Learning
+## 📖 Currently Learning
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
@@ -37,7 +36,7 @@ Passionate about Linux, automation, and DevOps.
 
 ---
 
-## Focus Areas
+## 🎯 Focus Areas
 
 - Backend Development (Go, Python)
 - System Design
@@ -46,6 +45,6 @@ Passionate about Linux, automation, and DevOps.
 
 ---
 
-## Contact
+## 📫 Contact
 
 - Email: [SMHO11@protonmail.com](mailto:SMHO11@protonmail.com)
