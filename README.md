@@ -17,7 +17,7 @@ Passionate about Linux, automation, and DevOps.
 
 ---
 
-## 🛠️ Featured Projects
+## Featured Projects
 
 * **[camera-lock-github](https://github.com/SMHO179/camera-lock-github)** - OpenCV presence-detection utility that automatically locks the system screen when no face is detected.
 * **[searxng-docker-compose](https://github.com/SMHO179/searxng-docker-compose)** - Production-ready Docker Compose setup for self-hosting the privacy-respecting SearXNG metasearch engine.
@@ -28,7 +28,7 @@ Passionate about Linux, automation, and DevOps.
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
@@ -36,7 +36,7 @@ Passionate about Linux, automation, and DevOps.
 
 ---
 
-## 📌 Focus Areas
+## Focus Areas
 
 - Backend Development (Go, Python)
 - System Design
@@ -45,6 +45,6 @@ Passionate about Linux, automation, and DevOps.
 
 ---
 
-## 📫 Contact
+## Contact
 
 - Email: [SMHO11@protonmail.com](mailto:SMHO11@protonmail.com)
