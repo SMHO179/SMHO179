@@ -37,6 +37,9 @@ Passionate about Linux, automation, and DevOps.
 - DevOps & Cloud
 - Open Source Contribution
 
+# GitHub Stats:
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SMHO179&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 ## Contact
 
 - Email: [SMHO11@protonmail.com](mailto:SMHO11@protonmail.com)
