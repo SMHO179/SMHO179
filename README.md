@@ -15,13 +15,13 @@ Passionate about Linux, automation, and DevOps.
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## Featured Projects
-
-* **[camera-lock-github](https://github.com/SMHO179/camera-lock-github)** - OpenCV presence-detection utility that automatically locks the system screen when no face is detected.
-* **[searxng-docker-compose](https://github.com/SMHO179/searxng-docker-compose)** - Production-ready Docker Compose setup for self-hosting the privacy-respecting SearXNG metasearch engine.
-* **[GoWeather](https://github.com/SMHO179/GoWeather)** - Lightweight and highly efficient weather tracking CLI utility written in Go.
-* **[iris-on-knn](https://github.com/SMHO179/iris-on-knn)** - Foundational machine learning project implementing the k-Nearest Neighbors algorithm on the Iris dataset.
-* **[metadata-viewer](https://github.com/SMHO179/metadata-viewer)** - A local file inspector utility designed to view, analyze, and read hidden file metadata.
-* **[Py-calculator](https://github.com/SMHO179/Py-calculator)** - A clean, standalone desktop graphical calculator application built using Python and PyQt6.
+* [Password-Manager](https://github.com/SMHO179/Password-Manager) - Secure and lightweight password manager built with Python and SQLite for managing credentials locally.
+* [camera-lock-github](https://github.com/SMHO179/camera-lock-github) - OpenCV-based security utility that automatically locks the system when no face is detected.
+* [searxng-docker-compose](https://github.com/SMHO179/searxng-docker-compose) - Production-ready Docker Compose deployment for self-hosting the privacy-focused SearXNG metasearch engine.
+* [GoWeather](https://github.com/SMHO179/GoWeather) - Fast and lightweight weather CLI tool written in Go with a focus on simplicity and performance.
+* [iris-on-knn](https://github.com/SMHO179/iris-on-knn) - Machine learning project implementing the k-Nearest Neighbors algorithm on the Iris dataset.
+* [metadata-viewer](https://github.com/SMHO179/metadata-viewer) - Local file analysis tool for inspecting and extracting hidden metadata from files.
+* [Py-calculator](https://github.com/SMHO179/Py-calculator) - Desktop calculator application built with Python and PyQt6 featuring a clean graphical interface.
 
 ## Currently Learning
 
