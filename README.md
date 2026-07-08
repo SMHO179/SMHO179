@@ -1,8 +1,8 @@
-Hi, I'm Mohammad Hesam 
+Hi, I'm Mohammad Hesam.
 
-Backend Developer focused on Go & Python.
-Passionate about Linux, automation, and DevOps.
+Backend Developer focused on Go and Python.
 
+I enjoy building backend services, command-line tools, and self-hosted infrastructure. My primary interests include Linux, automation, DevOps, and open-source software.
 
 ## Tech Stack
 
@@ -15,31 +15,36 @@ Passionate about Linux, automation, and DevOps.
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## Featured Projects
-* [Password-Manager](https://github.com/SMHO179/Password-Manager) - Secure and lightweight password manager built with Python and SQLite for managing credentials locally.
-* [camera-lock-github](https://github.com/SMHO179/camera-lock-github) - OpenCV-based security utility that automatically locks the system when no face is detected.
-* [searxng-docker-compose](https://github.com/SMHO179/searxng-docker-compose) - Production-ready Docker Compose deployment for self-hosting the privacy-focused SearXNG metasearch engine.
-* [GoWeather](https://github.com/SMHO179/GoWeather) - Fast and lightweight weather CLI tool written in Go with a focus on simplicity and performance.
-* [iris-on-knn](https://github.com/SMHO179/iris-on-knn) - Machine learning project implementing the k-Nearest Neighbors algorithm on the Iris dataset.
-* [metadata-viewer](https://github.com/SMHO179/metadata-viewer) - Local file analysis tool for inspecting and extracting hidden metadata from files.
-* [Py-calculator](https://github.com/SMHO179/Py-calculator) - Desktop calculator application built with Python and PyQt6 featuring a clean graphical interface.
+
+- **Password Manager** — Secure local password manager built with Python and SQLite.
+- **Camera Lock** — OpenCV utility that automatically locks the system when no face is detected.
+- **SearXNG Docker Compose** — Docker Compose deployment for self-hosting SearXNG.
+- **GoWeather** — Lightweight weather CLI written in Go.
+- **Iris on KNN** — Machine learning implementation of the K-Nearest Neighbors algorithm.
+- **Metadata Viewer** — Local file metadata inspection tool.
+- **Py Calculator** — Desktop calculator built with Python and PyQt6.
 
 ## Currently Learning
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-FF6F00?style=for-the-badge&logo=githubactions&logoColor=white)
-
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ## Focus Areas
 
-- Backend Development (Go, Python)
-- System Design
-- DevOps & Cloud
-- Open Source Contribution
+- Backend Development
+- Linux
+- DevOps
+- Automation
+- Self-Hosting
+- Open Source
 
-# GitHub Stats:
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SMHO179&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=SMHO179&theme=nightowl&show_icons=true&hide_border=true)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SMHO179&theme=nightowl&layout=compact&hide_border=true)
 
 ## Contact
 
-- Email: [SMHO11@protonmail.com](mailto:SMHO11@protonmail.com)
+- Proton Mail: **SMHO11@protonmail.com**
