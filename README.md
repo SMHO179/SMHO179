@@ -40,9 +40,6 @@ I enjoy building backend services, command-line tools, and self-hosted infrastru
 - Open Source
 
 ## GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=SMHO179&theme=nightowl&show_icons=true&hide_border=true)
-
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SMHO179&theme=nightowl&layout=compact&hide_border=true&hide=Jupyter%20Notebook)
 ## Contact
 
