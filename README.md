@@ -10,13 +10,7 @@ My primary interests include Linux, automation, DevOps, and open-source software
 
 ## Tech Stack
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
+<img src="https://skillicons.dev/icons?i=go,python,docker,git,linux,bash,vim,neovim" />
 
 ## Featured Projects
 
@@ -54,5 +48,4 @@ My primary interests include Linux, automation, DevOps, and open-source software
 ![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=SMHO179&theme=nightowl&layout=compact&hide_border=true&hide=Jupyter%20Notebook)
 
 ## Contact
-
 [![Proton Mail](https://img.shields.io/badge/Proton_Mail-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:SMHO11@protonmail.com)
