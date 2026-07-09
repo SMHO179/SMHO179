@@ -45,7 +45,7 @@ My primary interests include Linux, automation, DevOps, and open-source software
 
 ## GitHub Stats
 
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=SMHO179&theme=nightowl&layout=compact&hide_border=true&hide=Jupyter%20Notebook)
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=SMHO179&theme=dark&layout=compact&hide_border=false&hide=Jupyter%20Notebook)
 
 ## Contact
 [![Proton Mail](https://img.shields.io/badge/Proton_Mail-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:SMHO11@protonmail.com)
