@@ -9,8 +9,13 @@ I enjoy building backend services, command-line tools, and self-hosted infrastru
 My primary interests include Linux, automation, DevOps, and open-source software.
 
 ## Tech Stack
-
-<img src="https://skillicons.dev/icons?i=go,python,docker,git,linux,bash,vim,neovim" />
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Vim](https://img.shields.io/badge/Vim-019733?style=flat&logo=vim&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
 
 ## Featured Projects
 - [Password Manager](https://github.com/SMHO179/Password-Manager) — Secure local password manager built with Python and SQLite.
