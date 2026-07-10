@@ -13,14 +13,8 @@ My primary interests include Linux, automation, DevOps, and open-source software
 <img src="https://skillicons.dev/icons?i=go,python,docker,git,linux,bash,vim,neovim" />
 
 ## Featured Projects
-
-- **Password Manager** — Secure local password manager built with Python and SQLite.
-- **Camera Lock** — OpenCV utility that automatically locks the system when no face is detected.
-- **SearXNG Docker Compose** — Docker Compose deployment for self-hosting SearXNG.
-- **GoWeather** — Lightweight weather CLI written in Go.
-- **Iris on KNN** — Machine learning implementation of the K-Nearest Neighbors algorithm.
-- **Metadata Viewer** — Local file metadata inspection tool.
-- **Py Calculator** — Desktop calculator built with Python and PyQt6.
+- [Password Manager](https://github.com/SMHO179/Password-Manager) — Secure local password manager built with Python and SQLite.
+- [GoWeather](https://github.com/SMHO179/GoWeather) — Lightweight weather CLI written in Go.
 
 ## Currently Learning
 
